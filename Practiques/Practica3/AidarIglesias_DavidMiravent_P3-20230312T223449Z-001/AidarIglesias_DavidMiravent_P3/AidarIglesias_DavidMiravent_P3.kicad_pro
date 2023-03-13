@@ -524,6 +524,90 @@
       {
         "netclass": "POWER",
         "pattern": "PGM"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/V_{in}"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/V_{div}"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vfbk"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/VAMP"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "Vdrive"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "PWM"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "Vout"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vled"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "XTAL1"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "XTAL2"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "PROG_MCLR"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "MCLR"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vsw"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "PGD"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "PGC"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "RX"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "TX"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vls"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vdd"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vlr"
+      },
+      {
+        "netclass": "SIGNAL",
+        "pattern": "/Vlb"
       }
     ]
   },
