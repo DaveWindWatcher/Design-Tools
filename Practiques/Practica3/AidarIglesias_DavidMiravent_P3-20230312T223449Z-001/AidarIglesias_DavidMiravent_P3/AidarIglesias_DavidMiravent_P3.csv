@@ -1,0 +1,7 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","D1","1","LED","Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp",""
+"2","J1","1","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"3","R1","1","100k","Resistor_SMD:R_1206_3216Metric",""
+"4","R2","1","68k","Resistor_SMD:R_1206_3216Metric",""
+"5","R3","1","1k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",""
+"6","U1","1","LM358_DFN","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",""

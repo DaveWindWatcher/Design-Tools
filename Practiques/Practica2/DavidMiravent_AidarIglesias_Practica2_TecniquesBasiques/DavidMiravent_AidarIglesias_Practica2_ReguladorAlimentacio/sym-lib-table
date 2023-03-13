@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LM1117-ADJ-Regulador")(type "KiCad")(uri "/home/aidar/Documents/ED/Practica2/LM1117-ADJ-Regulador.kicad_sym")(options "")(descr ""))
+  (lib (name "LM1117T-ADJ")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/LM1117T-ADJ.kicad_sym")(options "")(descr ""))
+)
